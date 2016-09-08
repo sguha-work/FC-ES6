@@ -1,7 +1,8 @@
-
 class FCES6 {
     constructor() {
         this.status = "hello";
     }
-    generate() {}
+    generate() {
+        //environment setup is going on
+    }
 }
